@@ -84,7 +84,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,,css,discord,github,html,c#,js,linux,mysql,nodejs,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,cs,js,mysql,nodejs,vscode&perline=14" />
   </a>
 </p>
 
@@ -111,7 +111,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shinon4598&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
