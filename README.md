@@ -10,17 +10,10 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">If you can imagine it, you can program it 👩‍💻🎨</h2></summary>
   </ul>
 </div>
 
@@ -30,9 +23,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in ASP.NET. So,I'm learning **.NET**
-
-- 💬 Ask me about **MySQL, C#, .NET, HTML, CSS, JS, Bootstrap 5**
+- ☁️ I've keen interest in ASP.NET. So,I'm learning **MVC**
 
 - 📫 Feel free to reach me out ****
 
